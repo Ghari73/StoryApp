@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="title_login_page">Gak sabar mau berbagi cerita?</string>
+    <string name="message_login_page">Cuss masuk...</string>
+    <string name="title_reg_page">Bergabung bersama kami...</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Nama</string>
+
+    <string name="login">Masuk</string>
+    <string name="reg">Daftar</string>
+    <string name="copyright">Created by Syahdi Gharizah Ahsan</string>
+    <string name="belum_punya_akun">Eh, belum punya akun? Langsung aja</string>
+    <string name="sudah_punya_akun">Sudah punya akun?  Yuk</string>
+    <string name="register_pers">Daftar...</string>
+    <string name="login_pers">Masuk...</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_pass">Password</string>
+
+    <string name="login_berhasil">Yeah... Kamu berhasil Login!</string>
+    <string name="login_gagal">Waduh... kayaknya email atau passwordnya salah</string>
+    <string name="pass_restriction">Password kamu kurang dari 8</string>
+    <string name="pass_empty">Kayaknya passwordnya kelupaan tuh</string>
+    <string name="email_restriction">Emailnya gak valid nih...</string>
+
+    <string name="reg_berhasil">Yeah... Kamu berhasil daftar!</string>
+    <string name="reg_gagal">Yah gagal... coba lagi ya</string>
+
+    <string name="logout">Logout</string>
+    <string name="message_main">Yeay, kamu berhasil login...!</string>
+    <string name="title_activity_story">StoryActivity</string>
+    <string name="title_story">Stories</string>
+    <string name="title_profile">Profile</string>
+    <string name="mgs_dataNull">Belum ada story apapun nih</string>
+</resources>
